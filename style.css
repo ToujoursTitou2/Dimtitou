@@ -1,0 +1,65 @@
+.Header{
+    text-align: center;
+    font-family: freemono;
+    border-top: 1px #000000 solid;
+    border-bottom: 1px #000000 solid;
+    border-left: 1px #000000 solid;
+    border-right: 1px #000000 solid;
+    margin: auto;
+    width: 350px;
+    font-size: 15px;
+}
+.Title{
+    display: flex;
+    justify-content: center;
+}
+a:link{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    color: #323030;
+}
+.Paragraph{
+    text-align: justify;
+    font-family: freemono;
+    font-size: 18px;
+    color: #000000;
+    border-top: 1px #000000 solid;
+    border-bottom: 1px #000000 solid;
+    border-left: 1px #000000 solid;
+    border-right: 1px #000000 solid;
+    margin: auto;
+    width: 600px;
+    
+    
+}
+.Sub-title{
+    text-align: center;
+    font-family: freemono;
+    font-size: 15px;
+    color: #000000;
+}
+.Menu{
+    text-align: center;
+    font-family: freemono;
+    font-size: 13px;
+    color: #000000;
+    border-top: 1px #000000 solid;
+    border-bottom: 1px #000000 solid;
+    border-left: 1px #000000 solid;
+    border-right: 1px #000000 solid;
+    margin: auto;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    text-align: center;
+    font-family: freemono;
+    font-size: 15px;
+    color: #000000;
+    border-top: 1px #000000 solid;
+    margin: auto;
+    width: auto;
+}
